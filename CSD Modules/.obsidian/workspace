@@ -36,10 +36,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#untracked",
                 "matchingCase": false,
                 "explainSearch": true,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -84,15 +84,15 @@
   },
   "active": "cc46767e3607ba7e",
   "lastOpenFiles": [
-    "Core/50.001 Information Systems & Programming.md",
-    "Core/50.005 Computer System Engineering.md",
-    "Core Elect/50.007 Machine Learning.md",
+    "Custom/01.116 AI for Healthcare.md",
+    "Custom/01.117 Brain-Inspired Computing and its Applications.md",
+    "40.324 Fundamentals of Investing (ESD).md",
     "50.006 User Interface Design and Implementation.md",
-    "Core/50.003 Elements of Software Construction.md",
-    "50.050 Discrete Mathematics and Algorithm Design.md",
-    "50.043 Database Systems.md",
+    "50.017 Graphics and Visualisation.md",
     "50.012 Networks.md",
-    "50.XXX Secure Software Engineering (TBC).md",
-    "term7.md"
+    "50.020 Network Security.md",
+    "50.021 Artificial Intelligence.md",
+    "Custom/50.033 Foundations of Game Design and Development.md",
+    "50.035 Computer Vision.md"
   ]
 }

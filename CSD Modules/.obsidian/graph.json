@@ -1,5 +1,5 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": true,
   "showAttachments": false,
@@ -15,51 +15,51 @@
       }
     },
     {
-      "query": "path:\"Core Elect\"",
+      "query": "path:Custom",
       "color": {
         "a": 1,
-        "rgb": 9211020
+        "rgb": 9737364
       }
     },
     {
-      "query": "path:\"Core\"",
+      "query": "tag:#term4",
       "color": {
         "a": 1,
-        "rgb": 0
+        "rgb": 16711680
       }
     },
     {
       "query": "tag:#term7",
       "color": {
         "a": 1,
-        "rgb": 61183
+        "rgb": 255
       }
     },
     {
       "query": "tag:#term8",
       "color": {
         "a": 1,
-        "rgb": 16711867
+        "rgb": 16721103
       }
     },
     {
       "query": "tag:#term5",
       "color": {
         "a": 1,
-        "rgb": 16759552
+        "rgb": 16711680
       }
     },
     {
       "query": "tag:#term6",
       "color": {
         "a": 1,
-        "rgb": 15333888
+        "rgb": 1237262
       }
     }
   ],
   "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": 0.3,
+  "textFadeMultiplier": 0.2,
   "nodeSizeMultiplier": 1.36246288598575,
   "lineSizeMultiplier": 2.99191656769596,
   "collapse-forces": false,
@@ -67,6 +67,6 @@
   "repelStrength": 8.47832541567696,
   "linkStrength": 0.433491686460808,
   "linkDistance": 30,
-  "scale": 0.9915883875086791,
-  "close": true
+  "scale": 0.9915883875086792,
+  "close": false
 }
