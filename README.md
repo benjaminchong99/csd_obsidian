@@ -36,6 +36,6 @@ For the basics that you need to know:
   | Blue | Term 7|
   | Violet/Pink | Term 8|
   | Grey| Custom mods|
-
+- Click on node to check out more information (better in read mode)
 - Pull and drag the node to arrange for better viewing
 - Open graph settings to do advance filtering - Turn on Tags to find track/term related mods from the graph - Else, you can search using the searh bar for track-related/ term-related mods
