@@ -29,20 +29,6 @@
       }
     },
     {
-      "query": "tag:#term7",
-      "color": {
-        "a": 1,
-        "rgb": 255
-      }
-    },
-    {
-      "query": "tag:#term8",
-      "color": {
-        "a": 1,
-        "rgb": 16721103
-      }
-    },
-    {
       "query": "tag:#term5",
       "color": {
         "a": 1,
@@ -54,6 +40,20 @@
       "color": {
         "a": 1,
         "rgb": 1237262
+      }
+    },
+    {
+      "query": "tag:#term7",
+      "color": {
+        "a": 1,
+        "rgb": 255
+      }
+    },
+    {
+      "query": "tag:#term8",
+      "color": {
+        "a": 1,
+        "rgb": 16721103
       }
     }
   ],
@@ -67,6 +67,6 @@
   "repelStrength": 8.47832541567696,
   "linkStrength": 0.433491686460808,
   "linkDistance": 30,
-  "scale": 0.9915883875086792,
+  "scale": 0.9915883875086795,
   "close": false
 }

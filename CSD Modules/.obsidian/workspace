@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#untracked",
+                "query": "tag:#term8",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -45,7 +45,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -74,8 +75,17 @@
                 "unlinkedCollapsed": false
               }
             }
+          },
+          {
+            "id": "5b33132d68d2f11a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
