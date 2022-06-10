@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "64aa089b600aee85",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc46767e3607ba7e",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "678c5aeb7ef58ee1",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f3df4b310774f03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "896dfe052db933a4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "222b55bc4a4545d9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e119d81712c6d4ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0cbe18a06dd6398",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab13c08a52810402",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "cc46767e3607ba7e",
+  "lastOpenFiles": [
+    "Core/50.001 Information Systems & Programming.md",
+    "Core/50.005 Computer System Engineering.md",
+    "Core Elect/50.007 Machine Learning.md",
+    "50.006 User Interface Design and Implementation.md",
+    "Core/50.003 Elements of Software Construction.md",
+    "50.050 Discrete Mathematics and Algorithm Design.md",
+    "50.043 Database Systems.md",
+    "50.012 Networks.md",
+    "50.XXX Secure Software Engineering (TBC).md",
+    "term7.md"
+  ]
+}

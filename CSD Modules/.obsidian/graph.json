@@ -1,0 +1,72 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Begin",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:\"Core Elect\"",
+      "color": {
+        "a": 1,
+        "rgb": 9211020
+      }
+    },
+    {
+      "query": "path:\"Core\"",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "tag:#term7",
+      "color": {
+        "a": 1,
+        "rgb": 61183
+      }
+    },
+    {
+      "query": "tag:#term8",
+      "color": {
+        "a": 1,
+        "rgb": 16711867
+      }
+    },
+    {
+      "query": "tag:#term5",
+      "color": {
+        "a": 1,
+        "rgb": 16759552
+      }
+    },
+    {
+      "query": "tag:#term6",
+      "color": {
+        "a": 1,
+        "rgb": 15333888
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": 0.3,
+  "nodeSizeMultiplier": 1.36246288598575,
+  "lineSizeMultiplier": 2.99191656769596,
+  "collapse-forces": false,
+  "centerStrength": 0.495175178147268,
+  "repelStrength": 8.47832541567696,
+  "linkStrength": 0.433491686460808,
+  "linkDistance": 30,
+  "scale": 0.9915883875086791,
+  "close": true
+}
