@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1e7451e52eeada49",
+        "id": "30b9bd218b41a696",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "50.046 Cloud Computing and Internet of Things.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "50.046 Cloud Computing and Internet of Things.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,25 +83,24 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "1e7451e52eeada49",
+  "active": "30b9bd218b41a696",
   "lastOpenFiles": [
+    "Core/50.002 Computation Structures.md",
+    "Core/50.004 Algorithms.md",
     "50.046 Cloud Computing and Internet of Things.md",
-    "50.XXX Software Testing and Verification (TBC).md",
-    "List of Modules/_List of all modules_ref for future.md",
-    "List of Modules/List of all Modules.md",
-    "Custom/01.116 AI for Healthcare.md",
-    "Custom/01.117 Brain-Inspired Computing and its Applications.md",
-    "Custom/50.033 Foundations of Game Design and Development.md",
-    "Custom/50.037 Blockchain Technology.md",
-    "Core/50.001 Information Systems & Programming.md",
-    "Begin/Freshmore DDW.md"
+    "40.324 Fundamentals of Investing (ESD).md",
+    "50.006 User Interface Design and Implementation.md",
+    "50.012 Networks.md",
+    "50.017 Graphics and Visualisation.md",
+    "50.020 Network Security.md",
+    "50.021 Artificial Intelligence.md",
+    "50.035 Computer Vision.md"
   ]
 }
