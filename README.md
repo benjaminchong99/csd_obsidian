@@ -29,13 +29,18 @@ For the basics that you need to know:
 
 - Click and drag to move, scroll to zoom
 - Hover over circle node to see the relationships
-  | Node colour |Representation |
-  |--|--|
-  | Red |Freshmore DDW, term 4 & 5 core mods |
-  | Green | Term 6|
-  | Blue | Term 7|
-  | Violet/Pink | Term 8|
-  | Grey| Custom mods|
+  ![](gif/hover%20immediate%20links.gif)
+  | Node colour | Representation |
+  | ----------- | ----------------------------------- |
+  | Red | Freshmore DDW, term 4 & 5 core mods |
+  | Green | Term 6 |
+  | Blue | Term 7 |
+  | Violet/Pink | Term 8 |
+  | Grey | Custom mods |
+
 - Click on node to check out more information (better in read mode)
+  ![](gif/view%20info.gif)
 - Pull and drag the node to arrange for better viewing
+  ![](gif/pull%20to%20rearrange.gif)
 - Open graph settings to do advance filtering - Turn on Tags to find track/term related mods from the graph - Else, you can search using the searh bar for track-related/ term-related mods
+  ![](gif/search.gif)
