@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#term8",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -45,11 +45,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e119d81712c6d4ee",
@@ -92,15 +94,15 @@
   },
   "active": "30b9bd218b41a696",
   "lastOpenFiles": [
+    "Core Elect/50.042 Foundations of Cybersecurity.md",
+    "Core/50.004 Algorithms.md",
     "Core Elect/50.007 Machine Learning.md",
     "Core/50.002 Computation Structures.md",
-    "Core/50.004 Algorithms.md",
     "50.046 Cloud Computing and Internet of Things.md",
     "40.324 Fundamentals of Investing (ESD).md",
     "50.006 User Interface Design and Implementation.md",
     "50.012 Networks.md",
     "50.017 Graphics and Visualisation.md",
-    "50.020 Network Security.md",
-    "50.021 Artificial Intelligence.md"
+    "50.020 Network Security.md"
   ]
 }
