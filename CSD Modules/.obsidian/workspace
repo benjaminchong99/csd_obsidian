@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "30b9bd218b41a696",
+        "id": "b3f8705e117d2146",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -92,17 +92,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "30b9bd218b41a696",
+  "active": "b3f8705e117d2146",
   "lastOpenFiles": [
+    "50.021 Artificial Intelligence.md",
+    "Core Elect/50.007 Machine Learning.md",
     "Core Elect/50.042 Foundations of Cybersecurity.md",
     "Core/50.004 Algorithms.md",
-    "Core Elect/50.007 Machine Learning.md",
     "Core/50.002 Computation Structures.md",
     "50.046 Cloud Computing and Internet of Things.md",
     "40.324 Fundamentals of Investing (ESD).md",
     "50.006 User Interface Design and Implementation.md",
     "50.012 Networks.md",
-    "50.017 Graphics and Visualisation.md",
-    "50.020 Network Security.md"
+    "50.017 Graphics and Visualisation.md"
   ]
 }
