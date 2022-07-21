@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "tag:#dataanalytics",
+  "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -67,6 +67,6 @@
   "repelStrength": 8.47832541567696,
   "linkStrength": 0.433491686460808,
   "linkDistance": 30,
-  "scale": 0.6822864207511911,
+  "scale": 0.6822864207511914,
   "close": false
 }
